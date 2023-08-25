@@ -8,7 +8,7 @@ Generan todos los datos del tipo que se esta especificando.
 ---
 
 ### .Operaciones observadores: 
-Devuelven informacion sobre los datos que se estan especificando.
+Devuelven informacion sobre los datos que se estan especificando. Devuelve un tipo de dato distinto.
 
 ---
 ### .Operaciones modificadoras: 
@@ -18,7 +18,7 @@ El resultado es un dato del mismo tipo que se especifica.
 
 
 
-```
+``` 
 especificacion NATURALES
 usa BOOLEANOS
 tipos nat
@@ -38,9 +38,9 @@ ecuaciones
 </br>
 
 ## Codigo en c++
-
+> Crear un nuevo tipo de dato
 ```c++
-typedef struct Booleano{
+typedef struct Booleano {
     int a;
 }
 
