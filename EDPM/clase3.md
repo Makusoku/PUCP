@@ -41,7 +41,7 @@ ecuaciones
 
 ```c++
 typedef struct Booleano{
-
+    int a;
 }
 
 
