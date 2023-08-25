@@ -1,4 +1,4 @@
-# CLASE 1
+# CLASE 3
 
 ## Tipos de operaciones en un TAD
 
