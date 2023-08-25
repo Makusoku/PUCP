@@ -89,5 +89,5 @@ typedef struct Booleano {
 
 
 
-[x] por completar
-[ ] falta completar 
+* [X] por completar
+* [ ] falta completar 
