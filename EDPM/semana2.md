@@ -88,6 +88,7 @@ typedef struct Booleano {
 > Si pierdes la direccion del primer nodo, fuiste.
 
 
-
-* [X] por completar
-* [ ] falta completar 
+#### Cosas pendientes por escribir
+* [ ] El codigo en c++ de la creacion de una variable
+* [ ] Revisar el codigo que el profe aun no manda
+* [ ] Entender las listas enlazadas mediante el codigo 
