@@ -22,11 +22,17 @@ Funcion factorial(n)
 
 - Problema sobre triangulo y asteriscos:
 
-   * [Forma 1](https://github.com/Makusoku/PUCP/blob/master/Algoritmia/Recursion/recursion1.cpp "Texto personalizable") </br>
-   * [Forma 2](https://github.com/Makusoku/PUCP/blob/master/Algoritmia/Recursion/recursion2.cpp "Texto personalizable")
+   * [Forma 1](https://github.com/Makusoku/PUCP/blob/master/Algoritmia/Recursion/recursion1.cpp "Primera solucion") </br>
+   * [Forma 2](https://github.com/Makusoku/PUCP/blob/master/Algoritmia/Recursion/recursion2.cpp "Segunda solucion") 
+   
+   </br>
 
 - Problema sobre la suma maxima en matrices:
 
-    * [Forma 1](https://github.com/Makusoku/PUCP/blob/master/Algoritmia/Recursion/recursion1.cpp "Texto personalizable") </br>
-    * [Forma 2](https://github.com/Makusoku/PUCP/blob/master/Algoritmia/Recursion/recursion1.cpp "Texto personalizable") </br>
+    * [Forma 1](https://github.com/Makusoku/PUCP/blob/master/Algoritmia/Recursion/recursion3.cpp "Texto personalizable") </br>
+    * [Forma 2](https://github.com/Makusoku/PUCP/blob/master/Algoritmia/Recursion/recursion4.cpp "Texto personalizable") 
+    
+    </br>
+
+- 
 
