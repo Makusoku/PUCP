@@ -4,6 +4,7 @@ using namespace std;
 ll n_max, arr[10][10];
 vector<ll> sumas;
 ll const inf = -1000000;
+
 ll max_sum(ll i, ll j ){
 
     if(i == 0 and j == 0){
@@ -40,4 +41,4 @@ int main(){
     solve();
 
     return 0;
-}
+}   
