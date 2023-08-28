@@ -25,3 +25,8 @@ Funcion factorial(n)
    * [Forma 1](https://github.com/Makusoku/PUCP/blob/master/Algoritmia/Recursion/recursion1.cpp "Texto personalizable") </br>
    * [Forma 2](https://github.com/Makusoku/PUCP/blob/master/Algoritmia/Recursion/recursion2.cpp "Texto personalizable")
 
+- Problema sobre la suma maxima en matrices:
+
+    * [Forma 1](https://github.com/Makusoku/PUCP/blob/master/Algoritmia/Recursion/recursion1.cpp "Texto personalizable") </br>
+    * [Forma 2](https://github.com/Makusoku/PUCP/blob/master/Algoritmia/Recursion/recursion1.cpp "Texto personalizable") </br>
+
