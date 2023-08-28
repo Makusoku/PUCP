@@ -22,6 +22,6 @@ Funcion factorial(n)
 
 - Problema sobre triangulo y asteriscos:
 
-   * [Forma 1](https://google.com "Texto personalizable") </br>
-   * [Forma 2](https://google.com "Texto personalizable")
+   * [Forma 1](https://github.com/Makusoku/PUCP/blob/master/Algoritmia/Recursion/recursion1.cpp "Texto personalizable") </br>
+   * [Forma 2](https://github.com/Makusoku/PUCP/blob/master/Algoritmia/Recursion/recursion2.cpp "Texto personalizable")
 
