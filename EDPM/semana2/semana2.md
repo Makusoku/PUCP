@@ -91,4 +91,5 @@ typedef struct Booleano {
 #### Cosas pendientes por escribir
 * [ ] El codigo en c++ de la creacion de una variable
 * [ ] Revisar el codigo que el profe aun no manda
-* [ ] Entender las listas enlazadas mediante el codigo       
+* [ ] Entender las listas enlazadas mediante el codigo   
+* [ ] Crear la clase de listas enlazadas    
